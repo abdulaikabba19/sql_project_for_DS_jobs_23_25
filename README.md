@@ -119,13 +119,13 @@ This project not only highlights market trends but also demonstrates practical S
 
 **NOTE**: I have attached some graphical analysis of my query results. **All these graphs were done by COPILOT using my query results**.
 
-[average_salary_by_job_title](assets\salary_bar_chart_teal.png)
+![average_salary_by_job_title](assets\salary_bar_chart_teal.png)
 *This chart shows the average salary based on job titles*
-[skill_demand_count](assets\skill_counts.png)
+![skill_demand_count](assets\skill_counts.png)
 *This chart shows the demand for the top five skills for data science jobs*
-[skills_by_salaries](assets\top_10_skills_avg_salary.png)
+![skills_by_salaries](assets\top_10_skills_avg_salary.png)
 *This chart shows top paying skills for data science jobs*
-[count_of_skills](assets\top_10_skills_bar_chart (1).png)
+![count_of_skills](assets\top_10_skills_bar_chart (1).png)
 *This chart visualises the count of skills for the top 10 paying jobs*
 
 
